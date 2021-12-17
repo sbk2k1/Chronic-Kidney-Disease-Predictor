@@ -4,4 +4,3 @@ Things to keep in mind:
 
 1. The path is incorrect as the code was written in Google Colab
 2. Some packaged need to be installed (Again this is not included as the code was written in Google Colab)
-3. The machine learning model was not created by me.
